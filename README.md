@@ -54,7 +54,7 @@ Jocul se poate opri oricând cu butonul de start/stop.
   
 ## Schema electrica a circuitului implementat pe Wokwi
   
-![img1](./poze/image3.jpeg)
+![img](./poze/img.png)
 
 ## Imagini cu Setup-ul Fizic
 
