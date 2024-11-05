@@ -27,12 +27,12 @@
 
 
 ## Componentele folosite:
-  - 4x LED-uri (pentru a simula procentul de încărcare)
-  - 1x LED RGB (pentru starea de liber sau ocupat)
-  - 2x Butoane (pentru start oncarcare si stop incarcare)
-  - 9x Rezistoare (7x 220ohm, 2x 1K)
+  - Arduino UNO (ATmega328P microcontroller)
+  - 1x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
+  - 2x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
+  - 5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
   - Breadboard
-  - Linii de legatura
+  - Fire de legătură
 
   ![img](./poze/image2.jpeg)
   
