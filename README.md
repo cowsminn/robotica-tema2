@@ -50,7 +50,7 @@ Jocul se poate opri oricând cu butonul de start/stop.
   - Breadboard
   - Fire de legătură
 
-  ![img](./poze/image2.jpeg)
+  ![img](./poze/img.jpeg)
   
 ## Schema electrica a circuitului implementat pe Wokwi
   
