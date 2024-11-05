@@ -58,9 +58,13 @@ Jocul se poate opri oricând cu butonul de start/stop.
 
 ## Imagini cu Setup-ul Fizic
 
-![img3](./poze/image1.jpeg)
+![img1](./poze/img1.jpeg)
 
-![img2](./poze/image.png)
+![img2](./poze/img2.jpeg)
+
+![img3](./poze/img3.jpeg)
+
+![img4](./poze/img4.jpeg)
 
 ## link video:
   https://youtube.com/shorts/Hxhs5Td3ljg?si=jBow3Uvh0U9tc2a5
