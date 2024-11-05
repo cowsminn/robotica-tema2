@@ -67,4 +67,4 @@ Jocul se poate opri oricând cu butonul de start/stop.
 ![img4](./poze/img4.jpeg)
 
 ## link video:
-  https://youtube.com/shorts/Hxhs5Td3ljg?si=jBow3Uvh0U9tc2a5
+  https://youtube.com/shorts/YNsN55Gsx0Y
